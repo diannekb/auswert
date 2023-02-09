@@ -25,5 +25,5 @@ setuptools.setup(
         'Programming Language :: Python :: 3.7',
     ],
     
-    download_url="https://github.com/diannekb/testDKPB/archive/refs/tags/0.0.1.tar.gz",
+    download_url="https://github.com/diannekb/auswert/archive/refs/tags/0.0.1.tar.gz",
 )
